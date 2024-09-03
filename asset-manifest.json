@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ashfaqazad/deployment-cricketweb/static/css/main.74431ef5.css",
+    "main.js": "/ashfaqazad/deployment-cricketweb/static/js/main.16cb011b.js",
+    "static/js/592.77751a5b.chunk.js": "/ashfaqazad/deployment-cricketweb/static/js/592.77751a5b.chunk.js",
+    "index.html": "/ashfaqazad/deployment-cricketweb/index.html",
+    "main.74431ef5.css.map": "/ashfaqazad/deployment-cricketweb/static/css/main.74431ef5.css.map",
+    "main.16cb011b.js.map": "/ashfaqazad/deployment-cricketweb/static/js/main.16cb011b.js.map",
+    "592.77751a5b.chunk.js.map": "/ashfaqazad/deployment-cricketweb/static/js/592.77751a5b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74431ef5.css",
+    "static/js/main.16cb011b.js"
+  ]
+}
