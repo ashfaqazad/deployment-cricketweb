@@ -1,0 +1,185 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Poppins', sans-serif;
+}
+
+
+.expand-width-button {
+  padding: 10px 20px; /* Set initial padding */
+  transition: width 0.3s ease; /* Add transition effect for smooth animation */
+  border: none;
+  background-color: #007bff;
+  color: #fff;
+  cursor: pointer;
+  outline: none;
+}
+
+.expand-width-button:hover {
+  width: 150px; /* Set the width you want the button to expand to */
+}
+
+
+
+
+
+
+
+h1,
+p {
+  font-family: 'Poppins', sans-serif;
+
+}
+
+/*   
+  header {
+    background: linear-gradient(to right, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0)),
+      url('../Images/laptop6.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    background-position: top;
+  } */
+
+
+
+.header-style {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  height: 100vh;
+  background-position: top;
+  opacity: 0.7;
+  /* width: 100%; */
+}
+
+.img2-style {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  height: 100vh;
+  background-position: top;
+  /* opacity: 0.7;  */
+  /* width: 100%; */
+}
+
+
+.img-style {
+  width: 550px;
+  height: 500px;
+  margin-left: 20px;
+}
+
+.para-style {
+  text-align: justify;
+}
+
+.about-content {
+  /* padding-right: 100px; */
+  text-align: justify;
+}
+
+
+
+/* Footer Section */
+
+/* Set the default button style */
+.btn-hover {
+  /* background-color: white; */
+  color: white;
+  transition: background-color 0.3s ease;
+  /* Add a smooth transition effect */
+}
+
+/* Change the button color on hover */
+.btn-hover:hover {
+  background-color: white;
+  /* Set the hover color to orange */
+  color: white;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+
+}
+
+/* @media only screen and (max-width: 450px) {
+  body {
+    background-color: lightblue;
+  }
+} */
+
+/* @media  (max-width: 450px) {
+  .about-cotent p {
+    width: "vw-100";
+  }
+} */
+
+
+/* Contact Form */
+.my-skill {
+  flex-basis: 31%;
+  border-radius: 10px;
+  /* width: 47%; */
+  padding: 20px 12px;
+  box-sizing: border-box;
+  margin: auto;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  /* margin-left: 18px; */
+  /* font-size: 15px; */
+  font-family: 'Poppins', sans-serif;
+  background: rgb(129, 124, 158);
+  margin-bottom: 20px;
+  box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.1)
+}
+
+.html-skill {
+  background: chocolate;
+  /* width: 500px; */
+  height: 20px;
+  border-radius: 20px;
+  margin-bottom: 20px;
+}
+
+.css-skill {
+  background: aqua;
+  /* width: 400px; */
+  height: 20px;
+  border-radius: 20px;
+  margin-bottom: 20px;
+
+}
+
+.js-skill {
+  background: darkmagenta;
+  width: 300px;
+  height: 20px;
+  border-radius: 20px;
+  margin-bottom: 20px;
+}
+
+.bst-skill {
+  background: darkmagenta;
+  width: 300px;
+  height: 20px;
+  border-radius: 20px;
+  margin-bottom: 20px;
+}
+
+.wp-skill {
+  background: lime;
+  width: 200px;
+  height: 20px;
+  border-radius: 20px;
+  margin-bottom: 20px;
+
+}
+
+.skill {
+  text-align: center;
+  
+}

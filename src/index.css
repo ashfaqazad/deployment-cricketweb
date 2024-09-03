@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+body {
+    background-color: #EDF2F7; /* Your desired color */
+    /* padding-top: 60px; */
+  }
+
+/* For mobile screens */
+.nav-link:focus + .dropdown-menu {
+    display: block;
+  }
+
+
+  
+  
+/* .clicked{
+    display: none;
+} */
+/* 
+.services-submenu{
+    top: 48px;
+} */ 

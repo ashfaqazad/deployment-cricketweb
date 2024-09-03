@@ -1,0 +1,21 @@
+.services-submenu{
+    width: 10em;
+    position: absolute;
+    text-align: start;
+    list-style: none;
+  }
+  
+
+  .services-submenu li{
+    background-color: red;
+    cursor: pointer;
+  }
+  .submenu-item{
+    display: block;
+    width: 100%;
+    height: 100%;
+    text-decoration: none;
+    color: white;
+    padding: 16;
+  }
+  
